@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.21102,-33.86473 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Bligh Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20992,-33.86623 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Castlereagh Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2114,-33.86614 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Chifley Square",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2071,-33.8671 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Elizabeth Street",
+     "Building Name":"Metro Martin Place (North)"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.21111,-33.86476 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Farrer Place",
+     "Building Name":"Governor Macquarie Tower"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2107,-33.8643 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Farrer Place",
+     "Building Name":"Governor Phillip Tower"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20221,-33.87459 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Harbour Street",
+     "Building Name":"Darling Square"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2032,-33.85794 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Kent Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2103,-33.86273 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Macquarie Place",
+     "Building Name":"The Gateway Building"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20414,-33.86525 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Margaret Street",
+     "Building Name":"One Margaret Street"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20389,-33.87109 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Market Street",
+     "Building Name":"Podium Building"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20478,-33.87115 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Market Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20707,-33.8675 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Martin Place",
+     "Building Name":"No.1 Martin Place"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.21011,-33.86449 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 O'Connell Street",
+     "Building Name":"No 1 O'Connell Street"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20271,-33.8679 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 Shelley Street",
+     "Building Name":"Macquarie Bank Building"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2071,-33.8671 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"1 York Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20613,-33.86761 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Barrack Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20833,-33.86468 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Bond Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20815,-33.86348 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Bridge Street",
+     "Building Name":"Exchange House"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.2071,-33.8671 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Carrington Street",
+     "Building Name":"Brookfield Place"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20249,-33.8659 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Shelley Street",
+     "Building Name":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20922,-33.86473 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"10 Spring Street",
+     "Building Name":"Swire House"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20164,-33.86471 ]
+     },
+     "properties": {
+     "Suburb":"BARANGAROO",
+     "Addresss":"100 Barangaroo Avenue",
+     "Building Name":"International Towers, Tower 1"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20742,-33.87069 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"100 Market Street",
+     "Building Name":"Sydney Tower"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 151.20611,-33.87017 ]
+     },
+     "properties": {
+     "Suburb":"SYDNEY",
+     "Addresss":"99 York Street",
+     "Building Name":"Bowler's Club"
+     }
+   }
+ ]
+ }
