@@ -17,4 +17,4 @@ Important Documents to refer
 2.  https://threejs.org/docs/scenes/material-browser.html#MeshPhongMaterial
 
 
-# Note - you can customise data as well as building design as per your requirment. 
+# Note - you can modified data as well as building design as per your requirment. 
