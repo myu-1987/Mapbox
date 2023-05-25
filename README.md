@@ -4,7 +4,7 @@ Run Python http server locally
 # python -m http.server
 
 Example
-## http://localhost:8000
+### http://localhost:8000
 # http://localhost:8000/3dBuild.html
 # http://localhost:8000/plot.html
 # http://localhost:8000/home.html
