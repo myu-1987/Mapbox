@@ -3,12 +3,12 @@
 Run Python http server locally
 # python -m http.server
 
-Example
+# Example
 ### http://localhost:8000
-# http://localhost:8000/3dBuild.html
-# http://localhost:8000/plot.html
-# http://localhost:8000/home.html
-# http://localhost:8000/3dBuild.html
+### http://localhost:8000/3dBuild.html
+### http://localhost:8000/plot.html
+### http://localhost:8000/home.html
+### http://localhost:8000/3dBuild.html
 
 
 Important Documents to refer
@@ -17,4 +17,4 @@ Important Documents to refer
 2.  https://threejs.org/docs/scenes/material-browser.html#MeshPhongMaterial
 
 
-Note - you can customise data as well as building design as per your requirment. 
+# Note - you can customise data as well as building design as per your requirment. 
